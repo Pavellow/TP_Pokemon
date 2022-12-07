@@ -7,7 +7,7 @@ public class DonneePokedex {
 	
 	DonneePokedex() {
 	}
-
+// aaaa
 	DonneePokedex(int id, String nom, String type) {
 		this.id = id;
 		this.nom = nom;
